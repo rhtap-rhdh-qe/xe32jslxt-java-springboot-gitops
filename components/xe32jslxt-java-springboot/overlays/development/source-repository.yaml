@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xe32jslxt-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xe32jslxt-java-springboot
